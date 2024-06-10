@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    font-size: 120px;
+}
+
+.cabeçalho-lista-item {
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 30px;
+}
+
+.apresentação-1 {
+    font-size: 25px;
+    color: #3e2b27;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1em; /* Espaço de 1 parágrafo abaixo */
+}
+
+.apresentação-2 {
+    background-color: white;
+    font-size: 25px; 
+    margin-bottom: 1em; /* Espaço de 1 parágrafo abaixo */
+}
+.apresentação-3 {
+    background-color: white;
+    font-size: 25px;
+    margin-bottom: 1em; /* Espaço de 1 parágrafo abaixo */
+}
+.site {
+    position: relative;
+    width: 500px; /* largura do container */
+    height: 300px; /* altura do container */
+    background-color: #f0f0f0; /* cor de fundo para visualização */
+}
+.site img {
+    width: 40%;
+    height: 40%;
+    position: absolute;
+    top: -24px;
+    left: 126px;
+}
+
+.lista-item {
+    background-color: white;
+    font-size: 70px;
+    color: #3e2b3e;
+    display: flex;
+    padding: 15px 0;
+    margin-bottom: 1em; /* Espaço de 1 parágrafo abaixo */
+}
+
+.imagem-bit {
+    width: 10%;
+    height: 10%;
+}
+
+.dança .gif {
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    top: 512px;
+    left: 1460px;
+}
