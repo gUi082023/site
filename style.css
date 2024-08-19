@@ -72,3 +72,5 @@
     top: 512px;
     left: 1460px;
 }
+
+@import url("styles/header.css");
